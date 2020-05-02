@@ -1,0 +1,14 @@
+.header-top{
+  height:80px;
+  display:flex;
+  width:100%;
+  background-color:black;
+}
+.header-icon{
+  width:50%;
+  color:white;
+}
+.header-list{
+  width:50%;
+  color:white;
+}
